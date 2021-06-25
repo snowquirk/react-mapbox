@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "park_id": 1
+      },
+      "description": "Southbank BMW",
+      "address": "118 City Rd, Southbank VIC 3006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9591064453125,
+          -37.8230736274583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park_id": 2
+      },
+      "description": "South Yarra BMW",
+      "address": "145-147 Williams Rd, Prahran VIC 3181",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9920654296875,
+          -37.84015683604134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park_id": 3
+      },
+      "description": "Preston Market",
+      "address": "30A The Centreway, Preston VIC 3072",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.02880096435547,
+          -37.74221374848084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "park_id": 4
+      },
+      "description": "Melbourne BMW",
+      "address":"209 Kings Way, South Melbourne VIC 3006",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96099472045896,
+          -37.81412370160446
+        ]
+      }
+    }
+  ]
+}
