@@ -3,15 +3,15 @@ import { makeStyles } from "@material-ui/core/styles";
 
 const useStyles = makeStyles({
   root: {
-    color: '#666666',
+    color: '#0D1117',
     height: 75,
     padding: '0 10px 0 10px'
   }
 })
 
-const PopupContent = ({des, address}) => {
+const PopupContent = ({ des, address }) => {
   const classes = useStyles();
-  return(
+  return (
     <Paper elevation={0} className={classes.root}>
       <h3>{des}</h3>
       <p>{address}</p>
