@@ -4,6 +4,7 @@ import { makeStyles } from "@material-ui/core/styles";
 const useStyles = makeStyles({
   root: {
     color: '#666666',
+    background: '#FDA6CB',
     height: 75,
     padding: '0 10px 0 10px'
   }
